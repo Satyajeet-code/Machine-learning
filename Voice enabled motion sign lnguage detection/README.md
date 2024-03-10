@@ -7,7 +7,7 @@
 ### [Sign language data collection.ipynb](https://github.com/Satyajeet-code/Machine-learning/blob/main/Voice%20enabled%20motion%20sign%20lnguage%20detection/Sign%20language%20data%20collection.ipynb) 📹
 This Python script is dedicated to **data collection** using OpenCV and MediaPipe libraries. It captures video input, extracts hand landmarks, and saves the data for training the models.
 
-### [Sign language load saved model.ipynb](Sign language load saved model.ipynb) 🧠
+### [Sign language load saved model.ipynb](https://github.com/Satyajeet-code/Machine-learning/blob/main/Voice%20enabled%20motion%20sign%20lnguage%20detection/Sign%20language%20load%20saved%20model.ipynb) 🧠
 In this file, two models are trained - a **Recurrent Neural Network (RNN)** and a **Long Short-Term Memory (LSTM)** network. These models are trained on a dataset consisting of eight different sign language gestures.
 
 ### [Sign language model building.ipynb](Sign language model building.ipynb) 👁️
