@@ -1,4 +1,4 @@
-echo "# Motion Sign Language Detection
+# Motion Sign Language Detection
 
 🤖 **Welcome to the Motion Sign Language Detection project!** This GitHub repository focuses on detecting sign language gestures in real-time using a combination of computer vision and machine learning techniques.
 
