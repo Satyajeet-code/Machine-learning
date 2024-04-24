@@ -18,5 +18,9 @@ Replace cnn.h5 in the code with the path to cnn.h5 in your computer.
 
 ### Screenshots
 
+#### Normal:
 ![App ScreenshotS](https://github.com/Satyajeet-code/Machine-learning/blob/main/pothole_detection/Screenshot%202024-04-24%20142420.png)
+
+#### Pothole:
+
 ![App ScreenshotS](https://github.com/Satyajeet-code/Machine-learning/blob/main/pothole_detection/Screenshot%202024-04-24%20142447.png)
