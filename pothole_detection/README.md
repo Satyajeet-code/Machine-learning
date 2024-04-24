@@ -18,4 +18,4 @@ Replace cnn.h5 in the code with the path to cnn.h5 in your computer.
 
 ### Screenshot
 
-![App Screenshot](https://github.com/Satyajeet-code/Generative-AI/blob/main/Translator_and_summarizer/Screenshot%202024-04-24%20123935.png)
+![App Screenshot]()
