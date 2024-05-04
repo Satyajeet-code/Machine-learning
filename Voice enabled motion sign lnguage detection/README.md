@@ -26,5 +26,10 @@ Make sure to install the required dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
+### Screenshots
+
+![Screenshots](https://github.com/Satyajeet-code/Machine-learning/blob/main/Voice%20enabled%20motion%20sign%20lnguage%20detection/love%20you.png)
+
+![Screenshots](https://github.com/Satyajeet-code/Machine-learning/blob/main/Voice%20enabled%20motion%20sign%20lnguage%20detection/Screenshot%202024-03-11%20192202.png)
 
 Feel free to contribute and enhance the capabilities of this project! 🚀" > README.md
