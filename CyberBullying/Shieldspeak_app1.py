@@ -18,13 +18,12 @@ import configparser
 tfidf_vectorizer = TfidfVectorizer()
 
 
-classifier=pickle.load(open("/Users/adityavyshnav/Desktop/cybuuuuu/codeathon1.pkl","rb"))
+classifier=pickle.load(open("/Users/Users/Desktop/model.pkl","rb"))
 
 
 
-tfidf_vectorizer=pickle.load(open("/Users/adityavyshnav/Desktop/cybuuuuu/tfidf_vectorizer.pkl", 'rb'))
+tfidf_vectorizer=pickle.load(open("/Users/Users/Desktop/tfidf_vectorizer.pkl", 'rb'))
 
-#@app.route('/')
 def welcome():
     return "Welcome All"
 
@@ -35,7 +34,7 @@ def send_email(subject, body):
 
     email_sender = "semthreecs@gmail.com"
     email_password = "bfqt hoec iapq bbnk"
-    email_receiver = "codeadityavyshnav@gmail.com"
+    email_receiver = "satyajeetnarayan9@gmail.com"
 
     em = EmailMessage()
     em.set_content(body)
@@ -103,7 +102,6 @@ def encourage(label):
     else:
         return "Don't be a bully!" 
 
-#@app.route('/predict',methods=["Get"])
 def predict_note_authentication(val):
  
 
@@ -153,7 +151,7 @@ def main():
         
     if st.button("About"):
         st.markdown("Made with :heartbeat: ")
-        st.markdown("**Ruchika Bihari** | **Aditya** ")
+        st.markdown("**Satyajeet Narayan**")
 
         
 
